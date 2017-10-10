@@ -4,7 +4,7 @@
 
 To get a local copy of the current code, clone it using:
 
-    $ https://github.com/barkate/JS-Design-Patterns.git
+    $ https://github.com/kbaranovska/JS-Design-Patterns.git
 
 Next, install Node.js via the [official package](http://nodejs.org).
 You need to install the npm package install all dependencies for PDF.js:
