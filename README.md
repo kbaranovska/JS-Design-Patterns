@@ -7,11 +7,11 @@ To get a local copy of the current code, clone it using:
     $ https://github.com/kbaranovska/JS-Design-Patterns.git
 
 Next, install Node.js via the [official package](http://nodejs.org).
-You need to install the npm package install all dependencies for PDF.js:
+You need to install all the npm package dependencies running:
 
     $ npm install
 
-Then you need to install web server globally to run them:
+Then you need to install web server globally:
 
     $ npm install webpack-dev-server -g
 
